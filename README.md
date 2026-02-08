@@ -17,7 +17,7 @@ An e-commerce website for sunglasses and optical products built using the MERN s
 
 ## 📦 How to Run Locally
 ```bash
-git clone https://github.com/Rahul-2513/Lens-Kart.git
+git clone https://github.com/Rahul-2513/Lens-star.git
 cd Lens-Star
 npm install
 npm start
